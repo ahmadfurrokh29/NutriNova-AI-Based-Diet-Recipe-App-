@@ -45,7 +45,7 @@ NutriNova is a Flutter app that builds a personalised diet profile (BMI, goal, a
 ## Tech Stack
 
 - Flutter / Dart
-- Firebase Auth, Cloud Firestore, Firebase Storage
+- Firebase Auth, Cloud Firestore
 - Google Generative AI (Gemini 2.5 Flash)
 - Pixabay API
 - Provider (state management), flutter_dotenv
