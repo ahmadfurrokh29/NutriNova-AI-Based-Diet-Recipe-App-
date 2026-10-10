@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "544286581012",
+    "project_id": "nutrinova-be88f",
+    "storage_bucket": "nutrinova-be88f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544286581012:android:f73528add8a1e445a0e201",
+        "android_client_info": {
+          "package_name": "com.example.sad_semester_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544286581012-aail67t1899ligifuid9pa3v839nfjnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZZtNnnMJeb4oAXkXaGzpK3EmG8BK7oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544286581012-aail67t1899ligifuid9pa3v839nfjnq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544286581012-12ck9b5pisbfqule9ajnvmv7okle8q6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sadSemesterProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
